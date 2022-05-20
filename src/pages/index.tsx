@@ -9,6 +9,8 @@ const InitArea = styled.main`
   align-items: center;
   height: 100vh;
   flex-direction: column;
+  background-image: url("/images/background.png");
+  background-size: cover;
 
   p {
     font-family: "Caveat", cursive;
